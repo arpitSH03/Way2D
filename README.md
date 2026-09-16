@@ -6,7 +6,7 @@ MANY STUDENT CHOOSING B.TECH AND SPEND APPROX 1 YEAR TO FIND OUT WHAT THEY HAVE 
                          WAY2D
         ┌──────────────────┴──────────────────┐
         │                                     │
-   STUDENT APP                            ADMIN PANEL
+   STUDENT APP                            ADMIN PANEl
         │                                     │
         ▼                                     ▼
  Authentication                         Manage Content
